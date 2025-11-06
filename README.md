@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Adu-Boahen/fourcard-feature-section.git)
-- Live Site URL:(https://ybenevolent-griffin-5b5855.netlify.app)
+- Live Site URL:(https://benevolent-griffin-5b5855.netlify.app)
 
 ## My process
 
